@@ -1,4 +1,8 @@
 # Pi
+![image](https://github.com/user-attachments/assets/860936ac-865c-4c42-896b-23e121a28b46)
+
+![image](https://github.com/user-attachments/assets/50f7a945-88fb-484a-9fd5-d6bda558dd73)
+![image](https://github.com/user-attachments/assets/b9142410-0117-4d1d-9ae3-6e72bfb5e702)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
 
